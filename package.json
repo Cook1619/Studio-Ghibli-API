@@ -2,7 +2,7 @@
   "name": "reacting-to-apis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Cook1619.github.io/ReactingToAPIS",
+  "homepage": "https://Cook1619.github.io/Studio-Ghibli-API",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.4.1",
